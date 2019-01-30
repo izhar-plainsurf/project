@@ -1,0 +1,26 @@
+.container-fluid.mini {
+
+    padding-right: 100px;
+    padding-bottom: 51px;
+
+}
+.bolding {
+    font-size: 17px;
+}
+ 
+.nav.navbar-nav.pull-right.menuu {
+    padding-top: 12px;
+    color: #4d4d4d;
+}
+.active.bclor {
+    background-color: #3a9960;
+}
+{
+
+a.    color: #fff;
+    background-color: #2cc553;
+
+}
+.navbar.navbar-inverse.navcolr {
+    background-color: #ddf6e2;
+}
